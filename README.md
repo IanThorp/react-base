@@ -1,0 +1,1 @@
+Basic React Starter with Webpack, ES6, Babel, and yarn.
